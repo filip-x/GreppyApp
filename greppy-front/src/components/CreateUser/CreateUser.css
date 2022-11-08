@@ -1,0 +1,23 @@
+.CreateUser {}
+
+
+
+.form-center{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    row-gap: 5px;
+    align-items: center;
+}
+
+label{
+    color: white;
+}
+.create{
+    background-color: lightskyblue;
+}
+
+.cancel{
+    margin-bottom: 8px;
+    color:cornflowerblue;
+}
